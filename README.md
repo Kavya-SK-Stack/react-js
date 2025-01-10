@@ -17,6 +17,12 @@
 4. Remove from Cart
 * Users can remove specific items from the cart via the modal.
 
+5. Product quantity increase and decrease
+* In the Cart page users may be able to Increase/Decrease the quantity of each item.
+
+6. Discount 10%
+* The final price should be given a 10% discount on the total price.
+
   User Interface
 * Responsive Layout: Works seamlessly on both desktop and mobile devices.
 * Clean Styling with Tailwind CSS: Ensures a professional and user-friendly design
